@@ -6,6 +6,6 @@
 </div>
 
 
-## License
+## Licenses
 
 This repository is under The MIT License. Read the [LICENSE](https://github.com/RiteshPuvvada/Machine-Learning-Lab/blob/main/LICENSE) file for more information.
